@@ -200,7 +200,7 @@ img {
   }
 }
 .main-navigation .nav-container .nav {
-  width: 350px;
+  width: 450px;
   display: flex;
   justify-content: space-evenly;
 }
@@ -214,6 +214,7 @@ img {
   font-size: 1.6rem;
   color: #212529;
   text-decoration: none;
+  padding: 10px;
 }
 .footer {
   width: 100%;
